@@ -1,11 +1,11 @@
-# India Census 2011 Explorer
+## India Census 2011 Explorer
 
 A multi-page Streamlit dashboard for exploring district-level population, literacy, workforce, household, social, infrastructure, and geographic data from Census of India 2011.
 
 The project includes dedicated pages for district exploration, literacy, rural/urban households,
 state analysis and comparison, workforce, and household infrastructure.
 
-## Live Dashboard
+### Live Dashboard
 
 [Open the Census Dashboard directly](https://abhisheksinghml85-stack-data-visualisation-projects-app-octhtq.streamlit.app/)
 
