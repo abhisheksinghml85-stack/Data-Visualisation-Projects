@@ -5,6 +5,10 @@ A multi-page Streamlit dashboard for exploring district-level population, litera
 The project includes dedicated pages for district exploration, literacy, rural/urban households,
 state analysis and comparison, workforce, and household infrastructure.
 
+## Live Dashboard
+
+[Open the Census Dashboard directly](https://abhisheksinghml85-stack-data-visualisation-projects-app-octhtq.streamlit.app/)
+
 ## Run locally
 
 ```powershell
